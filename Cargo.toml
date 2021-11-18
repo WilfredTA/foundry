@@ -2,9 +2,9 @@
 members = [
     "evm-adapters",
     "utils",
-    "seth",
-    "dapp",
-    "dapptools",
+    "bolt-lib",
+    "forge-lib",
+    "cli",
 ]
 
 # Binary size optimizations
