@@ -2,8 +2,8 @@
 members = [
     "evm-adapters",
     "utils",
-    "bolt-lib",
-    "forge-lib",
+    "cast",
+    "forge",
     "cli",
 ]
 
